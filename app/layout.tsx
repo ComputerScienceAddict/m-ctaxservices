@@ -29,6 +29,7 @@ export const metadata: Metadata = {
     title: 'M & G Tax Services LLC',
     description: 'M & G Tax Services LLC — Helping individuals & small businesses with their financial needs. Tax preparation, bookkeeping, payroll. Miami, FL.',
     type: 'website',
+    images: ['/m-g-flyer.png'],
   },
   twitter: {
     card: 'summary_large_image',
